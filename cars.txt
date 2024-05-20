@@ -1,0 +1,20 @@
+Toyota, Camry, 2019, JT2BF22KX2X056349, Black, 2.5, V6, 203, Gasoline
+Honda, Accord, 2020, 1HGCM82633A123456, Blue, 2.4, I4, 190, Gasoline
+BMW, 3-Series, 2018, WBA8E1C50JA123456, White, 2.0, I4, 248, Gasoline
+Audi, A4, 2019, WAUZZZ8K1DA123456, Red, 2.0, I4, 252, Gasoline
+Ford, Mustang, 2021, 1FA6P8TH4M1234567, Green, 2.3, I4, 310, Gasoline
+Chevrolet, Malibu, 2017, 1G1ZD5ST7HF123456, Silver, 1.5, I4, 160, Gasoline
+Nissan, Altima, 2020, 1N4AL3AP6LC123456, Black, 2.5, I4, 188, Gasoline
+Mercedes-Benz, C-Class, 2021, WDDWF4KB5MR123456, Blue, 2.0, I4, 255, Gasoline
+Lexus, ES, 2019, 58ADZ1B15KU123456, White, 3.5, V6, 302, Gasoline
+Subaru, Outback, 2018, 4S4BSENC9J3234567, Grey, 2.5, I4, 182, Gasoline
+Mazda, 6, 2020, JM1GL1VM0L1123456, Red, 2.5, I4, 187, Gasoline
+Volkswagen, Jetta, 2019, 3VWC57BU9KM123456, Black, 1.4, I4, 147, Gasoline
+Hyundai, Sonata, 2021, 5NPE24AFXMH123456, Blue, 2.5, I4, 191, Gasoline
+Kia, Optima, 2018, 5XXGT4L33JG123456, Silver, 2.4, I4, 185, Gasoline
+Tesla, Model 3, 2020, 5YJ3E1EA7LF123456, White, N/A, Electric, 450, Electric
+Volvo, S60, 2019, YV1RS5921K1234567, Blue, 2.0, I4, 250, Gasoline
+Jeep, Grand-Cherokee, 2021, 1C4RJEBG5MC123456, Black, 3.6, V6, 295, Gasoline
+Infiniti, Q50, 2019, JN1BV7AP4KM123456, White, 3.0,V6, 300, Gasoline
+Acura, TLX, 2020, 19UUB1F34LA123456, Silver, 2.4, I4, 206, Gasoline
+Cadillac, CT5, 2021, 1G6D35RX7M0123456, Black, 3.0, V6, 335, Gasoline
